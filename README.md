@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Philip.
+
+I do consulting in the SWE / Ops / Cloud / DevOps space at [Slalom](http://slalom.com).
+
+I believe in making the world of software better through incremental collective action, and try to contribute to Open Source every time I see something I wish was different.
 
 <!--
 **Hanse00/Hanse00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
